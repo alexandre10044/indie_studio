@@ -4,9 +4,11 @@ Epitech Final Second Year Project, IndieStudio
 Usage:
 
 git submodule init
+
 git submodule update
 
 ./build.sh
+
 ./bomberman
 
 Subject:
