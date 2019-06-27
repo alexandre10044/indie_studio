@@ -1,6 +1,13 @@
 # indie_studio
 Epitech Final Second Year Project, IndieStudio
 
+
+![alt text](https://github.com/alexandre10044/indie_studio/blob/master/demo1.png)
+
+
+![alt text](https://github.com/alexandre10044/indie_studio/blob/master/demo2.png)
+
+
 Usage:
 
 git submodule init
